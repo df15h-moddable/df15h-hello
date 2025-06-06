@@ -7,4 +7,5 @@
 
 ## Reference
 
-1. [No Mans Sky](https://www.nexusmods.com/games/nomanssky) @ nexusmods.
+- [No Mans Sky](https://www.nexusmods.com/games/nomanssky) @ nexusmods.
+- [Adding new buildable objects](https://nmsmodding.fandom.com/wiki/Adding_new_buildable_objects) @ nmsmodding.fandom.
