@@ -8,4 +8,10 @@
 ## Reference
 
 - [No Mans Sky](https://www.nexusmods.com/games/nomanssky) @ nexusmods.
-- [Adding new buildable objects](https://nmsmodding.fandom.com/wiki/Adding_new_buildable_objects) @ nmsmodding.fandom.
+- [NMS-Modding-Station](https://github.com/Tub0Crisco/NMS-Modding-Station) by Tub0Crisco @ github.
+- [NMS Modding Station](https://www.nexusmods.com/nomanssky/mods/320) by Tub0Crisco @ nexusmods.
+- [MBINCompiler](https://github.com/monkeyman192/MBINCompiler) by monkeyman192 @ github.
+- [NMS Custom Model Importer (NMSDK)](https://github.com/monkeyman192/NMSDK) by monkeyman192 @ github.
+- [AMUMSS (auto modbuilder-updater with MOD script definition system)](https://www.nexusmods.com/nomanssky/mods/957) by Mjjstral @ nexusmods.
+- [AMUMSS](https://github.com/HolterPhylo/AMUMSS) by HolterPhylo @ github.
+- [PlayStation_archive_(PSARC)](https://www.psdevwiki.com/ps3/PlayStation_archive_(PSARC)) @ psdevwiki.
